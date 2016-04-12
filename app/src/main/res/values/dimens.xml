@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="margin">10dp</dimen>
+
+    <dimen name="elevation">5dp</dimen>
+
+</resources>

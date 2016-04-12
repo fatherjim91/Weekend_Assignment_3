@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">WeekendAssignment3_ASOS</string>
+
+    <string name="splash_screen_logo">Splash Screen Logo</string>
+
+    // Toolbar
+    <string name="description_categories">Show/Hide Categories</string>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string name="description_logo">Application Logo</string>
+    <string name="description_favourites">Show/Hide Favourites</string>
+    <string name="description_basket">Show/Hide Checkout Basket</string>
+
+    <string name="product_images">Product Images</string>
+
+    <string name="btn_men_category">Shop Men</string>
+    <string name="btn_women_category">Shop Women</string>
+
+</resources>

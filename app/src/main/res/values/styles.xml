@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="ASOS_Theme" parent="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+    <!-- Splash Screen Theme -->
+    <style name="Splash_Screen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+</resources>

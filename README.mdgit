@@ -1,0 +1,1 @@
+"# WeekendAssignment3"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/fatherjim91/WeekendAssignment3.gitgit push -u origin master
